@@ -1,0 +1,4 @@
+pip install pyinstaller
+pyinstaller --onefile demo.py
+https://pyinstaller.readthedocs.io/en/stable/
+https://datatofish.com/executable-pyinstaller/
